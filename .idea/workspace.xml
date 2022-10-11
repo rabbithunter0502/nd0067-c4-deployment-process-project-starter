@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a6e94a0-2b70-43b0-a3a6-5fce8103c5cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/documents/Infrastructure diagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/app-dependencies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/pipeline-process.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/pipeline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udagram/udagram-frontend/bin/create_s3_bucket.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udagram/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udagram/set_env.sh" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/set_env.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udagram/udagram-api/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udagram/udagram-api/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udagram/udagram-api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udagram/udagram-api/src/aws.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/src/aws.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udagram/udagram-api/src/config/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/src/config/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udagram/udagram-api/src/sequelize.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/src/sequelize.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udagram/udagram-api/src/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/src/server.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udagram/udagram-frontend/bin/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-frontend/bin/deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udagram/udagram-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udagram/udagram-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/udagram-frontend/src/app/feed/services/feed.provider.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-frontend/src/app/feed/services/feed.provider.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/udagram-frontend/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-frontend/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/udagram-frontend/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-frontend/src/environments/environment.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,7 @@
     "dart.analysis.tool.window.visible": "false",
     "last_opened_file_path": "D:/udacity/JS fullstack/project2/package.json",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
     "ts.external.directory.path": "D:\\udacity\\JS fullstack\\project4\\nd0067-c4-deployment-process-project-starter\\udagram\\udagram-frontend\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   },
@@ -49,6 +52,12 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\udacity\JS fullstack\project4\nd0067-c4-deployment-process-project-starter\udagram" />
+      <recent name="D:\udacity\JS fullstack\project4\nd0067-c4-deployment-process-project-starter\documents" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,11 +70,24 @@
       <workItem from="1665287652302" duration="2821000" />
       <workItem from="1665304437334" duration="1236000" />
       <workItem from="1665323945538" duration="12258000" />
-      <workItem from="1665363957532" duration="10117000" />
+      <workItem from="1665363957532" duration="20676000" />
+      <workItem from="1665408339346" duration="2844000" />
+      <workItem from="1665457265909" duration="14308000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

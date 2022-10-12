@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1a6e94a0-2b70-43b0-a3a6-5fce8103c5cf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents/infrastructure-description.md" beforeDir="false" afterPath="$PROJECT_DIR$/documents/infrastructure-description.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udagram/udagram-frontend/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-frontend/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/udagram-api/bin/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/bin/deploy.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,24 +21,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "D:/udacity/JS fullstack/project4/nd0067-c4-deployment-process-project-starter/udagram/udagram-api",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
-    "ts.external.directory.path": "D:\\udacity\\JS fullstack\\project4\\nd0067-c4-deployment-process-project-starter\\udagram\\udagram-api\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/udacity/JS fullstack/project4/nd0067-c4-deployment-process-project-starter/udagram/udagram-api&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\udacity\\JS fullstack\\project4\\nd0067-c4-deployment-process-project-starter\\udagram\\udagram-api\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\udacity\JS fullstack\project4\nd0067-c4-deployment-process-project-starter\udagram\udagram-api" />
@@ -82,7 +81,9 @@
       <workItem from="1665408339346" duration="2844000" />
       <workItem from="1665457265909" duration="21858000" />
       <workItem from="1665497418176" duration="11629000" />
-      <workItem from="1665533461292" duration="24519000" />
+      <workItem from="1665533461292" duration="25223000" />
+      <workItem from="1665573398872" duration="2695000" />
+      <workItem from="1665583554955" duration="897000" />
     </task>
     <servers />
   </component>

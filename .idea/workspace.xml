@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a6e94a0-2b70-43b0-a3a6-5fce8103c5cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/61cbd876-5ae1-4b89-a4d0-0bfe243e7629.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/61cbd876-5ae1-4b89-a4d0-0bfe243e7629.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a73b6362-cf0b-4638-b440-388a2f845bf1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a73b6362-cf0b-4638-b440-388a2f845bf1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a73b6362-cf0b-4638-b440-388a2f845bf1/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a73b6362-cf0b-4638-b440-388a2f845bf1/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a73b6362-cf0b-4638-b440-388a2f845bf1/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a73b6362-cf0b-4638-b440-388a2f845bf1/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a73b6362-cf0b-4638-b440-388a2f845bf1/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a73b6362-cf0b-4638-b440-388a2f845bf1/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/set_env.sh" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/set_env.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udagram/udagram-api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/udagram-api/src/aws.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/src/aws.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/udagram-api/src/controllers/v0/feed/routes/feed.router.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/src/controllers/v0/feed/routes/feed.router.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/udagram-api/src/controllers/v0/users/routes/auth.router.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/src/controllers/v0/users/routes/auth.router.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/udagram-api/src/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/src/server.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/udagram-frontend/src/app/api/api.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-frontend/src/app/api/api.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/udagram-frontend/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-frontend/src/environments/environment.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +40,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "D:/udacity/JS fullstack/project2/package.json",
+    "last_opened_file_path": "D:/udacity/JS fullstack/project4/nd0067-c4-deployment-process-project-starter/udagram/udagram-api/src/server.ts",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "terminal",
-    "ts.external.directory.path": "D:\\udacity\\JS fullstack\\project4\\nd0067-c4-deployment-process-project-starter\\udagram\\udagram-frontend\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "D:\\udacity\\JS fullstack\\project4\\nd0067-c4-deployment-process-project-starter\\udagram\\udagram-api\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -44,6 +57,21 @@
       <recent name="D:\udacity\JS fullstack\project4\nd0067-c4-deployment-process-project-starter\udagram" />
       <recent name="D:\udacity\JS fullstack\project4\nd0067-c4-deployment-process-project-starter\documents" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Udacity" type="NodeJSConfigurationType" path-to-js-file="src/server.ts" working-dir="$PROJECT_DIR$/udagram/udagram-api">
+      <method v="2">
+        <option name="NpmBeforeRunTask" enabled="true">
+          <package-json value="$PROJECT_DIR$/package.json" />
+          <command value="run" />
+          <scripts>
+            <script value="api:start" />
+          </scripts>
+          <node-interpreter value="project" />
+          <envs />
+        </option>
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,7 +87,9 @@
       <workItem from="1665323945538" duration="12258000" />
       <workItem from="1665363957532" duration="20676000" />
       <workItem from="1665408339346" duration="2844000" />
-      <workItem from="1665457265909" duration="16713000" />
+      <workItem from="1665457265909" duration="21858000" />
+      <workItem from="1665497418176" duration="11629000" />
+      <workItem from="1665533461292" duration="8067000" />
     </task>
     <servers />
   </component>

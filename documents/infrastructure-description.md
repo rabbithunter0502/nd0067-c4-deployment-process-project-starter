@@ -16,4 +16,4 @@ users can access the web app by the Bucket URL.
 #### Elastic Beanstalk
 AWS Elastic Beanstalk service will deploy the server and expose an endpoint for frontapp to call API.
 
-EB URL: `http://udagram-api-dev2.us-east-1.elasticbeanstalk.com/`
+EB URL: `http://udagramapi-env.eba-zw9mgcqk.us-east-1.elasticbeanstalk.com/`

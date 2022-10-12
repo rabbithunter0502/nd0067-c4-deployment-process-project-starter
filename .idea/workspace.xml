@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a6e94a0-2b70-43b0-a3a6-5fce8103c5cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/screenshots/circleci-config/0.circleci-project-variable-environment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/circleci-config/1.circleci-project-dashboard.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/circleci-config/2.circleci-build.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/circleci-config/3.circleci-deploy-process.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/eb-services/1.eb-app-dashboard.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/eb-services/2.eb-environment-health.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/eb-services/3.eb-env.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/frontend/frontend-view.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/rds-postgres/User-registed.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/rds-postgres/connect-to-rds-postgres.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/rds-postgres/feed-items-db.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/rds-postgres/rds-postgres-db.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/s3/s3-api-server-bucket.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/s3/s3-buckets.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/s3/s3-console-aws.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/s3/s3-frontend-bucket.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents/infrastructure-description.md" beforeDir="false" afterPath="$PROJECT_DIR$/documents/infrastructure-description.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +80,7 @@
       <workItem from="1665408339346" duration="2844000" />
       <workItem from="1665457265909" duration="21858000" />
       <workItem from="1665497418176" duration="11629000" />
-      <workItem from="1665533461292" duration="8989000" />
+      <workItem from="1665533461292" duration="9782000" />
     </task>
     <servers />
   </component>

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a6e94a0-2b70-43b0-a3a6-5fce8103c5cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/udagram/udagram-api/bin/deploy.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/udagram-api/bin/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/bin/deploy.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udagram/udagram-api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-api/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,7 @@
       <workItem from="1665408339346" duration="2844000" />
       <workItem from="1665457265909" duration="21858000" />
       <workItem from="1665497418176" duration="11629000" />
-      <workItem from="1665533461292" duration="13024000" />
+      <workItem from="1665533461292" duration="14546000" />
     </task>
     <servers />
   </component>
